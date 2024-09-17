@@ -1,2 +1,2 @@
-# research-papers
+# Research Papers
 Collection of Research Paper
